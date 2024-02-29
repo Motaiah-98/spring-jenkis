@@ -24,6 +24,7 @@ public class SpringJenkisApplication {
 		logger.info("Application executed ");
 		
 		SpringApplication.run(SpringJenkisApplication.class, args);
+		System.out.println("2nd commit");
 		
 		
 	}
