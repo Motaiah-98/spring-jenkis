@@ -25,6 +25,7 @@ public class SpringJenkisApplication {
 		
 		SpringApplication.run(SpringJenkisApplication.class, args);
 		System.out.println("2nd commit");
+		System.out.println("3rd commit");
 		
 		
 	}
